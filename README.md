@@ -1,0 +1,2 @@
+# -read
+/read private bookstore
